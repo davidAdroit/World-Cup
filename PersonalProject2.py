@@ -1,6 +1,5 @@
 import streamlit as st
-import numpy as np
-import matplotlib.pyplot as plt
+
 st.title("David's Website")
 st.header("World Cup Predictions")
 
